@@ -1,3 +1,4 @@
 Archivo3
+Se corrige Incidente2 - Critico
 Agrego linea en el local
 Nueva linea 
