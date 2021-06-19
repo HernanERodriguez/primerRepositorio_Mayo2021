@@ -1,7 +1,8 @@
 Archivo3
-
 Se corrige Incidente2 - Critico
 Agrego linea en el local
 Cambios de la tarea 1A
 Nueva Tarea1A linea 
 Ultimas tareas del 1A
+Nueva linea 
+Agrego palabra cambiada trabajo en el local local
